@@ -58,13 +58,16 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical&hide=prs&count_private=true&line_height=20" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical&hide=prs&count_private=true" height="180" alt="GitHub Stats"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKovenko&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" height="180" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKovenko&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</div>
 
 ## 🎯 Ключевые проекты
 
