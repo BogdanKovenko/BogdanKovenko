@@ -57,10 +57,10 @@
 
 ## 📊 Статистика GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical&hide=prs&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" height="180" alt="GitHub Streak"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKovenko&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
