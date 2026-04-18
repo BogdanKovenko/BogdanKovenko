@@ -1,12 +1,12 @@
 <h1 align="center">👋 Привет, я Богдан Ковенко</h1>
-<h3 align="center">Full-Stack Python разработчик & ML Engineer</h3>
+<h3 align="center">Machine Learning Engineer / RecSys / Kaggle Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/BogdanKovenko">
-    <img src="https://komarev.com/ghpvc/?username=BogdanKovenko&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=BogdanKovenko&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/BogdanKovenko?tab=followers">
-    <img src="https://img.shields.io/github/followers/BogdanKovenko?label=Followers&style=social" alt="Followers">
+    <img src="https://img.shields.io/github/followers/BogdanKovenko?label=Followers&style=social">
   </a>
 </p>
 
@@ -14,146 +14,116 @@
 
 ## 🚀 Обо мне
 
-- 💻 **Full-Stack разработчик** с опытом создания комплексных веб-приложений
-- 📊 **Data Scientist** - анализ данных, ML модели, компьютерное зрение, веб-интеграция ML
-- 🎓 **Школьник** (класс 9ПИ) с углубленным изучением программирования и физики
-- 🏆 Создатель **"Дневника Достижений"** - веб-платформы для учета академических успехов
-- 🌱 Постоянно изучаю новые технологии и улучшаю свои навыки
-- 📫 **Email:** starter1912@mail.ru
-- 🏫 **Учебное заведение:** МАОУ "Лицей №22 'Надежда Сибири'"
+- 🤖 **Machine Learning / RecSys разработчик**
+- 🧠 Увлекаюсь **Kaggle и ML-соревнованиями**
+- 🏆 🥈 **Top-2 (School Track)** — AI Academy hackathon *«По страницам»*
+- 🎓 Участник образовательной смены **Сириус по искусственному интеллекту**
+  - 📊 **15 место из ~60 участников**
+- 🏅 Призёр:
+  - **регионального этапа ВсОШ по ИИ**
+  - **финала РУКОД по олимпиадному программированию**
+  - **регионального тура “Большие вызовы”** (с проектом *Дневник достижений*)
+- 🚀 Участник **заключительного этапа ВсОШ по ИИ**
+- 📊 **NEOAI Qualifiers — Top 80** (международный отбор)
+
+📍 Сейчас активно развиваюсь в:
+- Recommendation Systems
+- Learning-to-Rank
+- NLP / LLM
+- ML соревнования
+
+---
 
 ## 🛠️ Технологический стек
 
 ### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![CatBoost](https://img.shields.io/badge/CatBoost-00C2FF?style=for-the-badge&logo=catboost&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge&logo=micropython&logoColor=white)
-
-### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-525252?style=for-the-badge&logo=bcrypt&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-00C2FF?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+### 📊 RecSys / Ranking
+![Ranking](https://img.shields.io/badge/Learning--to--Rank-111111?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111111?style=for-the-badge)
+![Recsys](https://img.shields.io/badge/Recommendation%20Systems-111111?style=for-the-badge)
+![Ensemble](https://img.shields.io/badge/Ensemble-111111?style=for-the-badge)
 
-### Базы данных
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🌐 Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge)
 
-### Инструменты
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SMTP](https://img.shields.io/badge/Email-SMTP-red?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-## 📊 Статистика GitHub
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical" width="400" alt="GitHub Stats"/>
-</div>
+## 🏆 Ключевые проекты
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" width="400" alt="GitHub Streak"/>
-</div>
+### 🥈 RecSys Hackathon Solution
+**Top-2 решение AI Academy hackathon “По страницам”**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKovenko&layout=compact&theme=radical" width="400" alt="Top Languages"/>
-</div>
+- Ensemble моделей (SVD, ALS, BPR, EASE)
+- CatBoostRanker
+- Diversity reranking
+- Final blending (RRF-like)
 
-## 🎯 Ключевые проекты
+📌 Один из самых сильных проектов в профиле
 
-### 🤖 Локальный ассистент по КОРП/223-ФЗ
-**AI-ассистент для работы с тендерами на базе Qwen2.5-3B с LoRA адаптацией**
-
-**Технологии:** 
-- 🧠 **Qwen2.5-3B-Instruct** - локальная языковая модель
-- 🔧 **LoRA** - эффективная тонкая настройка
-- 🚀 **Flask API** - веб-интерфейс для взаимодействия
-- ⚡ **CPU-оптимизация** - работа без требований к GPU
-
-**Особенности:**
-- Полностью локальное исполнение
-- Специализация на нормативных документах 223-ФЗ
-- Адаптация под конкретные бизнес-процессы
-- RESTful API для интеграции
+---
 
 ### 📚 Дневник Достижений
-**Полнофункциональная веб-платформа для учета академических и внеучебных достижений**
 
-**Основные функции:**
-- ✅ Система регистрации и верификации пользователей
-- 📊 Личный кабинет для управления достижениями
-- 🏫 Панель управления для преподавателей
-- 🏆 Рейтинговая система учащихся
-- 💬 Форум с системой модерации
-- 📧 Email-уведомления и восстановление пароля
-- 🔐 Ролевая система (ученики, учителя, администраторы)
+Веб-платформа для учёта академических успехов
 
-**Технологии:** Flask, SQLAlchemy, WTForms, bcrypt, SMTP, JavaScript, HTML/CSS
+🏆 **Призёр регионального тура “Большие вызовы”**
 
-## 🏆 Навыки
+Функционал:
+- роли пользователей (ученик / учитель / админ)
+- рейтинги и достижения
+- форум и модерация
+- email-уведомления
 
-### Machine Learning & AI
-- **NLP**: Работа с языковыми моделями (Qwen, трансформеры)
-- **Fine-tuning**: LoRA адаптация моделей под специфические задачи
-- **Классические ML**: CatBoost, Scikit-learn для табличных данных
-- **Computer Vision**: Базовые навыки обработки изображений
-- **Deployment ML**: Развертывание ML моделей в production
+---
 
-### Backend Development
-- Разработка RESTful API
-- Аутентификация и авторизация
-- Работа с базами данных и ORM
-- Оптимизация производительности (кэширование, многопоточность)
-- Безопасность веб-приложений
+### 🤖 LLM-ассистент (223-ФЗ)
 
-### Frontend Development
-- Адаптивный веб-дизайн
-- Интерактивные пользовательские интерфейсы
-- Работа с формами и валидация
-- AJAX и динамическое обновление контента
+AI-инструмент для работы с тендерами:
 
-### DevOps & Deployment
-- Конфигурация веб-серверов
-- Развертывание приложений
-- Работа с доменами и SSL
-- Мониторинг и логирование
+- Qwen2.5-3B
+- LoRA fine-tuning
+- локальный запуск (CPU)
+- Flask API
 
-## 📈 Активность
+---
+
+## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BogdanKovenko&theme=github" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BogdanKovenko&show_icons=true&theme=radical" width="400"/>
 </p>
 
-## 🔥 Мои репозитории
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanKovenko&theme=radical" width="400"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKovenko&layout=compact&theme=radical" width="400"/>
+</p>
 
-[![RTL Hack Project](https://github-readme-stats.vercel.app/api/pin/?username=BogdanKovenko&repo=RTL_hack&theme=radical)](https://github.com/BogdanKovenko/RTL_hack)
+---
 
-*Еще больше проектов в моем профиле!*
-
-</div>
-
-
-## 📫 Свяжитесь со мной
+## 📫 Контакты
 
 <p align="center">
   <a href="mailto:starter1912@mail.ru">
-    <img src="https://img.shields.io/badge/Email-starter1912@mail.ru-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-starter1912@mail.ru-blue?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/BogdanKovenko">
-    <img src="https://img.shields.io/badge/GitHub-BogdanKovenko-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-BogdanKovenko-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
-
-</div>
